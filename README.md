@@ -11,10 +11,12 @@ To learn more, check Wikipedia in [English](https://en.wikipedia.org/wiki/Yofica
 
 ## Usage
 Depends on yoficator.dic, which is used for the lookup and should remain in the same folder.
+
 `yoficator.py [text-file-in-Russian | string-in-Russian]`
 
 ## Examples
 Running the command without arguments parses the test file:
+
 `yoficator.py`
 
 Or just use it with a file or string:
